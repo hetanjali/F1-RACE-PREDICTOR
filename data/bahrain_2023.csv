@@ -1,0 +1,21 @@
+DriverNumber,BroadcastName,FullName,TeamName,Position,Points,Status,GridPosition,Time,year,RaceName,Round,Top3
+1,M VERSTAPPEN,Max Verstappen,Red Bull Racing,1.0,25.0,Finished,1.0,0 days 01:33:56.736000,2023,Bahrain,1,1
+11,S PEREZ,Sergio Perez,Red Bull Racing,2.0,18.0,Finished,2.0,0 days 00:00:11.987000,2023,Bahrain,1,1
+14,F ALONSO,Fernando Alonso,Aston Martin,3.0,15.0,Finished,5.0,0 days 00:00:38.637000,2023,Bahrain,1,1
+55,C SAINZ,Carlos Sainz,Ferrari,4.0,12.0,Finished,4.0,0 days 00:00:48.052000,2023,Bahrain,1,0
+44,L HAMILTON,Lewis Hamilton,Mercedes,5.0,10.0,Finished,7.0,0 days 00:00:50.977000,2023,Bahrain,1,0
+18,L STROLL,Lance Stroll,Aston Martin,6.0,8.0,Finished,8.0,0 days 00:00:54.502000,2023,Bahrain,1,0
+63,G RUSSELL,George Russell,Mercedes,7.0,6.0,Finished,6.0,0 days 00:00:55.873000,2023,Bahrain,1,0
+77,V BOTTAS,Valtteri Bottas,Alfa Romeo,8.0,4.0,Finished,12.0,0 days 00:01:12.647000,2023,Bahrain,1,0
+10,P GASLY,Pierre Gasly,Alpine,9.0,2.0,Finished,20.0,0 days 00:01:13.753000,2023,Bahrain,1,0
+23,A ALBON,Alexander Albon,Williams,10.0,1.0,Finished,15.0,0 days 00:01:29.774000,2023,Bahrain,1,0
+22,Y TSUNODA,Yuki Tsunoda,AlphaTauri,11.0,0.0,Finished,14.0,0 days 00:01:30.870000,2023,Bahrain,1,0
+2,L SARGEANT,Logan Sargeant,Williams,12.0,0.0,Lapped,16.0,0 days 00:00:01.136000,2023,Bahrain,1,0
+20,K MAGNUSSEN,Kevin Magnussen,Haas F1 Team,13.0,0.0,Lapped,17.0,0 days 00:00:16.757000,2023,Bahrain,1,0
+21,N DE VRIES,Nyck De Vries,AlphaTauri,14.0,0.0,Lapped,19.0,0 days 00:00:22.523000,2023,Bahrain,1,0
+27,N HULKENBERG,Nico Hulkenberg,Haas F1 Team,15.0,0.0,Lapped,10.0,0 days 00:00:38.911000,2023,Bahrain,1,0
+24,G ZHOU,Guanyu Zhou,Alfa Romeo,16.0,0.0,Lapped,13.0,0 days 00:00:39.649000,2023,Bahrain,1,0
+4,L NORRIS,Lando Norris,McLaren,17.0,0.0,Lapped,11.0,0 days 00:00:06.636000,2023,Bahrain,1,0
+31,E OCON,Esteban Ocon,Alpine,18.0,0.0,Retired,9.0,,2023,Bahrain,1,0
+16,C LECLERC,Charles Leclerc,Ferrari,19.0,0.0,Retired,3.0,,2023,Bahrain,1,0
+81,O PIASTRI,Oscar Piastri,McLaren,20.0,0.0,Retired,18.0,,2023,Bahrain,1,0
