@@ -2,7 +2,6 @@
 
 A machine learning system that predicts whether a Formula 1 driver will finish in the **Top 3** using real race data from the 2023 F1 World Championship.
 
-🌐 **Live Demo:** [Click here to try the app]([YOUR_STREAMLIT_URL_HERE](https://hetanjali-f1-race-predictor-app-xe74vw.streamlit.app/))
 
 ---
 
@@ -18,8 +17,7 @@ Data is fetched directly from the official F1 timing system using the FastF1 API
 
 The deployed Streamlit app allows users to input race parameters and receive an instant Top 3 prediction along with a confidence probability score.
 
-→ [Try it here]([YOUR_STREAMLIT_URL_HERE](https://hetanjali-f1-race-predictor-app-xe74vw.streamlit.app/))
-
+🌐 **Live Demo:** [Click here to try the app](https://hetanjali-f1-race-predictor-app-xe74vw.streamlit.app/)
 ---
 
 ## Technical Stack
